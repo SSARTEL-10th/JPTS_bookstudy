@@ -15,14 +15,10 @@
 
 <div align="center">
 
-| 스터디원 |                  Github 프로필                  |
-| :------: | :---------------------------------------------: |
-|   윤기   |      [Yg-Hong](https://github.com/Yg-Hong)      |
-|   정욱   |   [KIMSEI1124](https://github.com/KIMSEI1124)   |
-|   규헌   |      [kgh2120](https://github.com/kgh2120)      |
-|   승헌   |      [olrlobt](https://github.com/olrlobt)      |
-|   다민   |     [daminzzi](https://github.com/daminzzi)     |
-|   세은   |    [ChoiSeEun](https://github.com/ChoiSeEun)    |
+|     ![윤기](https://avatars.githubusercontent.com/u/89956603)     | ![정욱](https://avatars.githubusercontent.com/u/74192619) |![규헌](https://avatars.githubusercontent.com/u/76154390?v=4)|![승헌](https://avatars.githubusercontent.com/u/99643732)|![다민](https://avatars.githubusercontent.com/u/106113850)|![세은](https://avatars.githubusercontent.com/u/48899016)|
+|:---------------------------------------------------------------:|:-------------------------------------------------------:|:---:|:-----------------------------------------------------:|:------------------------------------------------------:|:---:|
+|                [윤기](https://github.com/Yg-Hong)                 |         [정욱](https://github.com/KIMSEI1124-dev)          | [규헌](https://github.com/kgh2120)|           [승헌](https://github.com/olrlobt)            |            [다민](https://github.com/daminzzi)             | [세은](https://github.com/ChoiSeEun)| 
+
 </div>
 
 ## 💯 주간 로그
